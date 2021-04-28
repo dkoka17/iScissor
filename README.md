@@ -1,2 +1,2 @@
-# iScissor
-rock paper scissor
+# iScissor (Android)
+rock paper scissor for android devices
