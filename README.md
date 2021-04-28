@@ -1,2 +1,2 @@
-# iScissort
+# iScissor
 rock paper scissor
