@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iScissor</string>
+    <string name="start_game">Press any button to start the game</string>
+    <string name="computer">Computer</string>
+    <string name="player">Player</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissor">Scissor</string>
+</resources>
